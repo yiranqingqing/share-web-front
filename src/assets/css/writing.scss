@@ -1,0 +1,108 @@
+.bg-purple-dark {
+    background: #99a9bf;
+}
+
+.bg-purple-right {
+    background: white;
+    color: rgb(212, 212, 212);
+}
+
+.bg-purple-left {
+    background: #f1f0f0;
+}
+
+.row-bg {
+    background-color: #f9fafc;
+}
+
+.writing-back-button {
+    background-color: #f1f0f0;
+    border: 1px solid #99ccff;
+    color: #99ccff;
+    font-size: 80%;
+    border-radius: 120px;
+    width: 80%;
+    height: 6vh;
+    margin: 10% 0px 0px 10%;
+    &:hover {
+        border-color: rgb(204, 223, 241);
+        border-width: 4px solid;
+    }
+}
+
+.el-main {
+    padding: 0px;
+}
+
+.navigation-buttons-Submission,
+.navigation-buttons-cancel {
+    background: none;
+    border-color: #99ccff;
+    margin-top: 5%;
+    width: 45%;
+    height: 8%;
+}
+
+.writing-fit-button {
+    color: rgb(62, 123, 255);
+    width: 5%;
+    height: 8%;
+}
+
+.el-menu-vertical-demo {
+    min-height: 85vh;
+    max-height: 85vh;
+    width: 100%;
+}
+
+.writing-problem {
+    margin-left: 10%;
+    background: none;
+    border: none;
+    color: rgb(112, 112, 112);
+    &:hover {
+        color: rgb(238, 189, 54);
+        border: none;
+    }
+}
+
+.block {
+    width: 40%;
+}
+
+.writing-see-button {
+    border: none;
+    margin-left: auto;
+    &:hover {
+        border: none;
+        background: none;
+    }
+}
+
+.writing-set-button {
+    position: absolute;
+    right: -1%;
+    top: 25%;
+    border: none;
+    &:hover {
+        border: none;
+        background: none;
+    }
+}
+
+.writing-newanthology-button {
+    width: 100%;
+    color: #99ccff;
+    text-align: left;
+    margin-left: 10%;
+}
+
+.writing-setup-button {
+    width: 100%;
+    margin-left: auto;
+}
+
+.writeArticle {
+    width: 100%;
+    height: 100vh;
+}
